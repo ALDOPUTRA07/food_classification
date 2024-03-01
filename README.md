@@ -41,6 +41,10 @@
 This project is an AI tool based on CNN that classifies types of food (sushi, pizza, steak). This project is based on CNN with the transfer learning method (using efficient-net).
 
 
+https://github.com/ALDOPUTRA07/food_classification/assets/123882693/450e270a-443b-4d20-b732-0d300707e9b9
+
+
+
 ### Built With
 
 These are list any major frameworks/libraries used to make the project.

@@ -1,4 +1,4 @@
-# KTP Classification
+# Food Classification using CNN
 
 <br />
 <div align="center">
@@ -20,6 +20,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+     <li><a href="#how-to-works">How to Works</a></li>
     <li><a href="#mlops-concepts">MLOPS Concepts</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
